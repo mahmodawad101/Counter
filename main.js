@@ -4,7 +4,7 @@
     let minutesDiv = document.querySelector(".minutes .minutess")
     let secondsDiv = document.querySelector(".seconds .secondss")
     
-    let fDate = new Date("10/01/2023");
+    let fDate = new Date("07/13/2023");
     let sDate = new Date();
     let dInTime = fDate.getTime() - sDate.getTime();
 
